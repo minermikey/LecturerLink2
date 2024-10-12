@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E52DCB8-7F6C-49D2-848A-5F43CC369215}|InformationControllerTests\\InformationControllerTests.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink\\informationcontrollertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E52DCB8-7F6C-49D2-848A-5F43CC369215}|InformationControllerTests\\InformationControllerTests.csproj|solutionrelative:informationcontrollertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink\\lecturerlink\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|solutionrelative:lecturerlink\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink\\lecturerlink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|solutionrelative:lecturerlink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink\\lecturerlink\\views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|solutionrelative:lecturerlink\\views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink\\lecturerlink\\views\\information\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|solutionrelative:lecturerlink\\views\\information\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink\\lecturerlink\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|solutionrelative:lecturerlink\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink\\lecturerlink\\models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|solutionrelative:lecturerlink\\models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink\\lecturerlink\\data\\migrations\\20241012120827_intital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05642CD8-1371-478D-AF72-36876E23C66E}|LecturerLink\\LecturerLink.csproj|solutionrelative:lecturerlink\\data\\migrations\\20241012120827_intital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\InformationControllerTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "InformationControllerTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\InformationControllerTests\\UnitTest1.cs",
+              "RelativeToolTip": "InformationControllerTests\\UnitTest1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:35:47.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InformationController.cs",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Controllers\\InformationController.cs",
+              "RelativeDocumentMoniker": "LecturerLink\\Controllers\\InformationController.cs",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Controllers\\InformationController.cs",
+              "RelativeToolTip": "LecturerLink\\Controllers\\InformationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:12:15.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Views\\Information\\Index.cshtml",
+              "RelativeDocumentMoniker": "LecturerLink\\Views\\Information\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Views\\Information\\Index.cshtml",
+              "RelativeToolTip": "LecturerLink\\Views\\Information\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T12:16:26.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Views\\Information\\Create.cshtml",
+              "RelativeDocumentMoniker": "LecturerLink\\Views\\Information\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Views\\Information\\Create.cshtml",
+              "RelativeToolTip": "LecturerLink\\Views\\Information\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T12:17:13.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241012120827_intital.cs",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Data\\Migrations\\20241012120827_intital.cs",
+              "RelativeDocumentMoniker": "LecturerLink\\Data\\Migrations\\20241012120827_intital.cs",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Data\\Migrations\\20241012120827_intital.cs",
+              "RelativeToolTip": "LecturerLink\\Data\\Migrations\\20241012120827_intital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:08:28.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Models\\Information.cs",
+              "RelativeDocumentMoniker": "LecturerLink\\Models\\Information.cs",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Models\\Information.cs",
+              "RelativeToolTip": "LecturerLink\\Models\\Information.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:02:15.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\appsettings.json",
+              "RelativeDocumentMoniker": "LecturerLink\\appsettings.json",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\appsettings.json",
+              "RelativeToolTip": "LecturerLink\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T12:01:22.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Program.cs",
+              "RelativeDocumentMoniker": "LecturerLink\\Program.cs",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink\\LecturerLink\\Program.cs",
+              "RelativeToolTip": "LecturerLink\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:01:18.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
