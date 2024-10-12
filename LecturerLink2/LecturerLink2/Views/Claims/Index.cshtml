@@ -1,0 +1,70 @@
+﻿@model IEnumerable<LecturerLink2.Models.Claims>
+
+@{
+    ViewData["Title"] = "Claims List";
+}
+
+<h2>Claims List</h2>
+
+@if (!Model.Any())
+{
+    <p>No claims have been submitted yet.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Lecturer ID</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Hours Worked</th>
+                <th>Claims Period Start</th>
+                <th>Claims Period End</th>
+                <th>Rate Per Hour</th>
+                <th>Total Amount</th>
+                <th>Description Of Work</th>
+                <th>Payment Status</th>
+                <th>Uploaded File</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var claim in Model)
+            {
+                <tr>
+                    <td>@claim.LecturerID</td>
+                    <td>@claim.Firstname</td>
+                    <td>@claim.Lastname</td>
+                    <td>@claim.HouresWorked</td>
+                    <td>@claim.Claimsperiodstart.ToString("yyyy-MM-dd")</td>
+                    <td>@claim.Claimsperiodend.ToString("yyyy-MM-dd")</td>
+                    <td>@claim.RatePerHour</td>
+                    <td>@claim.TotalAmount</td>
+                    <td>@claim.DiscriptionOfWork</td>
+                    <td>@claim.PaymentStatus</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(claim.FilePath))
+                        {
+                            <a href="@Url.Content(claim.FilePath)" target="_blank">View File</a>
+                        }
+                        else
+                        {
+                            <span>No file uploaded</span>
+                        }
+                    </td>
+                    <td>
+                        <form asp-action="Delete" asp-route-id="@claim.ID" method="post" onsubmit="return confirm('Are you sure you want to delete this claim?');">
+                            <input type="submit" value="Delete" class="btn btn-danger" />
+                        </form>
+                        <a asp-action="Edit" asp-route-id="@claim.ID" class="btn btn-primary">Edit</a>
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-action="Create" class="btn btn-primary">Submit New Claim</a>

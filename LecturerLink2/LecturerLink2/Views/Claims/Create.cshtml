@@ -1,0 +1,72 @@
+﻿@model LecturerLink2.Models.Claims
+
+@{
+    ViewData["Title"] = "Create Claim";
+}
+
+<h1>Create Claim</h1>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="LecturerID" class="control-label"></label>
+        <input asp-for="LecturerID" class="form-control" />
+        <span asp-validation-for="LecturerID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Firstname" class="control-label"></label>
+        <input asp-for="Firstname" class="form-control" />
+        <span asp-validation-for="Firstname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Lastname" class="control-label"></label>
+        <input asp-for="Lastname" class="form-control" />
+        <span asp-validation-for="Lastname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="HouresWorked" class="control-label"></label>
+        <input asp-for="HouresWorked" class="form-control" />
+        <span asp-validation-for="HouresWorked" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Claimsperiodstart" class="control-label"></label>
+        <input asp-for="Claimsperiodstart" class="form-control" type="date" />
+        <span asp-validation-for="Claimsperiodstart" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Claimsperiodend" class="control-label"></label>
+        <input asp-for="Claimsperiodend" class="form-control" type="date" />
+        <span asp-validation-for="Claimsperiodend" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="RatePerHour" class="control-label"></label>
+        <input asp-for="RatePerHour" class="form-control" />
+        <span asp-validation-for="RatePerHour" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DiscriptionOfWork" class="control-label"></label>
+        <textarea asp-for="DiscriptionOfWork" class="form-control"></textarea>
+        <span asp-validation-for="DiscriptionOfWork" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="fileUpload" class="control-label">Upload File</label>
+        <input type="file" name="fileUpload" class="form-control" />
+    </div>
+
+
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

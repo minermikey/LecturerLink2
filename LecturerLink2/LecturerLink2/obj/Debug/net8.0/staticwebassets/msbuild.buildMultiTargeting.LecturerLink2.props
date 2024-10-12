@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LecturerLink2.props" />
+</Project>
