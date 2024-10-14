@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink2\\lecturerlink2\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|solutionrelative:lecturerlink2\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink2\\lecturerlink2\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|solutionrelative:lecturerlink2\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink2\\lecturerlink2\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|solutionrelative:lecturerlink2\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink2\\lecturerlink2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|solutionrelative:lecturerlink2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink2\\lecturerlink2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|solutionrelative:lecturerlink2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink2\\lecturerlink2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|solutionrelative:lecturerlink2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink2\\lecturerlink2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|solutionrelative:lecturerlink2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink2\\lecturerlink2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|solutionrelative:lecturerlink2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AEC088F-C28B-4E6F-AE27-A81D214D3FE2}|LecturerLink2\\LecturerLink2.csproj|c:\\users\\quanita singh\\source\\repos\\lecturerlink2\\lecturerlink2\\views\\claims\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,25 +66,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LecturerLink2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LecturerLink2\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-12T19:00:31.878Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Claims\\Delete.cshtml",
-              "RelativeDocumentMoniker": "LecturerLink2\\Views\\Claims\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Claims\\Delete.cshtml",
-              "RelativeToolTip": "LecturerLink2\\Views\\Claims\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAowD0AAAAAAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LecturerLink2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LecturerLink2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwCcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-12T18:36:41.988Z",
+              "WhenOpened": "2024-10-12T18:47:14.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Claims\\Index.cshtml",
               "RelativeDocumentMoniker": "LecturerLink2\\Views\\Claims\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Claims\\Index.cshtml*",
-              "RelativeToolTip": "LecturerLink2\\Views\\Claims\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Claims\\Index.cshtml",
+              "RelativeToolTip": "LecturerLink2\\Views\\Claims\\Index.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAADwvz0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-12T15:20:11.286Z",
@@ -72,7 +104,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "LecturerLink2\\Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "LecturerLink2\\Controllers\\ClaimsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:18:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LecturerLink2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LecturerLink2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T19:01:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LecturerLink2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LecturerLink2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T19:04:29.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Program.cs",
+              "RelativeDocumentMoniker": "LecturerLink2\\Program.cs",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Program.cs",
+              "RelativeToolTip": "LecturerLink2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:57:15.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Claims\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LecturerLink2\\Views\\Claims\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Claims\\Delete.cshtml",
+              "RelativeToolTip": "LecturerLink2\\Views\\Claims\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T18:36:41.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Claims\\Edit.cshtml",
               "RelativeDocumentMoniker": "LecturerLink2\\Views\\Claims\\Edit.cshtml",
@@ -80,25 +175,11 @@
               "RelativeToolTip": "LecturerLink2\\Views\\Claims\\Edit.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAADwv0cAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-12T18:03:59.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T18:03:59.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClaimsController.cs",
-              "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Controllers\\ClaimsController.cs",
-              "RelativeDocumentMoniker": "LecturerLink2\\Controllers\\ClaimsController.cs",
-              "ToolTip": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Controllers\\ClaimsController.cs",
-              "RelativeToolTip": "LecturerLink2\\Controllers\\ClaimsController.cs",
-              "ViewState": "AQIAAKUAAAAAAAAAAAAqwMMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:18:33.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Views\\Claims\\Create.cshtml",
               "RelativeDocumentMoniker": "LecturerLink2\\Views\\Claims\\Create.cshtml",
@@ -106,12 +187,11 @@
               "RelativeToolTip": "LecturerLink2\\Views\\Claims\\Create.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAowD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-12T15:27:47.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T15:27:47.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Claims.cs",
               "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Models\\Claims.cs",
               "RelativeDocumentMoniker": "LecturerLink2\\Models\\Claims.cs",
@@ -119,12 +199,11 @@
               "RelativeToolTip": "LecturerLink2\\Models\\Claims.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:13:38.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T15:13:38.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "LecturerLink2\\Data\\ApplicationDbContext.cs",
@@ -132,8 +211,7 @@
               "RelativeToolTip": "LecturerLink2\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:17:08.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T15:17:08.392Z"
             }
           ]
         }

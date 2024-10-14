@@ -1,5 +1,6 @@
 ﻿using LecturerLink2.Data;
 using LecturerLink2.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -80,6 +81,8 @@ namespace LecturerLink2.Controllers
 
 
         // GET: Claims
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Index()
         {
             // Return all claims from the database
@@ -105,6 +108,8 @@ namespace LecturerLink2.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Edit(int id, Claims claim, IFormFile fileUpload)
         {
             if (id != claim.ID)
