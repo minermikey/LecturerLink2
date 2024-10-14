@@ -58,6 +58,14 @@ else
                             <input type="submit" value="Delete" class="btn btn-danger" />
                         </form>
                         <a asp-action="Edit" asp-route-id="@claim.ID" class="btn btn-primary">Edit</a>
+                        <form asp-action="ConfirmPayment" method="post">
+                            <input type="hidden" name="id" value="@claim.ID" />
+                            <button type="submit" class="btn btn-success">Confirm</button>
+                        </form>
+                        <form asp-action="DenyPayment" method="post">
+                            <input type="hidden" name="id" value="@claim.ID" />
+                            <button type="submit" class="btn btn-danger">Deny</button>
+                        </form>
                     </td>
 
 

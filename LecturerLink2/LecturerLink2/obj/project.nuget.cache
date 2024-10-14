@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LM+mBTJyUWHolOsaZ09FJLsdvp9oyympQu5t+pKGfg9d2iMXtSnbZJ06Zyy/vSK2WdBlWiWsou6NFvIQOjCuIA==",
+  "dgSpecHash": "SC7+Ji9vI3Rd7CYzxmGWB1AyY2kcwoRzrTsKDOix7Zo0Pk11CDagoaeEGI+mB2V9ktoEoEP7cQ1n6T26uaKHiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\LecturerLink2.csproj",
+  "projectFilePath": "C:\\Users\\Quanita Singh\\Documents\\GitHub\\LecturerLink2\\LecturerLink2\\LecturerLink2\\LecturerLink2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Quanita Singh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Quanita Singh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

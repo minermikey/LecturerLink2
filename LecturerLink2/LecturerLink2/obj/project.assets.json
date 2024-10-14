@@ -4536,11 +4536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\LecturerLink2.csproj",
+      "projectUniqueName": "C:\\Users\\Quanita Singh\\Documents\\GitHub\\LecturerLink2\\LecturerLink2\\LecturerLink2\\LecturerLink2.csproj",
       "projectName": "LecturerLink2",
-      "projectPath": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\LecturerLink2.csproj",
+      "projectPath": "C:\\Users\\Quanita Singh\\Documents\\GitHub\\LecturerLink2\\LecturerLink2\\LecturerLink2\\LecturerLink2.csproj",
       "packagesPath": "C:\\Users\\Quanita Singh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Quanita Singh\\source\\repos\\LecturerLink2\\LecturerLink2\\obj\\",
+      "outputPath": "C:\\Users\\Quanita Singh\\Documents\\GitHub\\LecturerLink2\\LecturerLink2\\LecturerLink2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LecturerLink2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ae55e4b5c22ffce2c43bb2e49197472b0e6fa8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LecturerLink2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LecturerLink2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
