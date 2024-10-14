@@ -21,6 +21,7 @@ namespace LecturerLink2.Controllers
         }
 
         // GET: Claims/Create
+        [Authorize(Roles = "LECTURER,Admin")]
         public IActionResult Create()
         {
             return View();
@@ -82,7 +83,6 @@ namespace LecturerLink2.Controllers
 
         // GET: Claims
         [Authorize(Roles = "Admin")]
-
         public async Task<IActionResult> Index()
         {
             // Return all claims from the database
@@ -109,7 +109,6 @@ namespace LecturerLink2.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         [Authorize(Roles = "Admin")]
-
         public async Task<IActionResult> Edit(int id, Claims claim, IFormFile fileUpload)
         {
             if (id != claim.ID)
@@ -197,6 +196,35 @@ namespace LecturerLink2.Controllers
                 await _context.SaveChangesAsync();
             }
 
+            return RedirectToAction(nameof(Index));
+        }
+
+        [HttpPost]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> ConfirmPayment(int id)
+        {
+            var information = await _context.Claims.FindAsync(id);
+            if (information != null)
+            {
+                information.PaymentStatus = "Confirmed";
+                _context.Update(information);
+                await _context.SaveChangesAsync();
+            }
+            return RedirectToAction(nameof(Index));
+        }
+
+        // POST: Deny Payment
+        [HttpPost]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> DenyPayment(int id)
+        {
+            var information = await _context.Claims.FindAsync(id);
+            if (information != null)
+            {
+                information.PaymentStatus = "Denied";
+                _context.Update(information);
+                await _context.SaveChangesAsync();
+            }
             return RedirectToAction(nameof(Index));
         }
     }
